@@ -1,5 +1,0 @@
-Found  properties to check
-
-
-
-No failed properties. Every property was either proven or could not be violated in 10 steps.
